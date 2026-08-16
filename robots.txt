@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gayang-room-note.banpo-massage-review.xyz/sitemap.xml
+Sitemap: https://gayang-room-note.banpo-massage-review.xyz/sitemap-pages.xml
